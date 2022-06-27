@@ -51,6 +51,7 @@ Welcome to improve this project together, you can contribute by [New issue](http
 Thank you!
 
 # Contact us
+[texto 3.txt](https://github.com/cyanzhong/jsbox-docs/files/8992248/texto.3.txt)
 
 If you have any question or suggestion about JSBox, you can find us by:
 
